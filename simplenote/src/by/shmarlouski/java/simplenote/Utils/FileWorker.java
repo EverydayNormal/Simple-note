@@ -1,4 +1,4 @@
-package by.shmarlouski.java.simplenote.Utils;
+package by.shmarlouski.java.simplenote.utils;
 
 
 import by.shmarlouski.java.simplenote.model.Role;

@@ -1,6 +1,6 @@
 package by.shmarlouski.java.simplenote.controller;
 
-import static by.shmarlouski.java.simplenote.Utils.Scan.scanNumber;
+import static by.shmarlouski.java.simplenote.utils.Scan.scanNumber;
 import static by.shmarlouski.java.simplenote.view.Printer.print;
 
 

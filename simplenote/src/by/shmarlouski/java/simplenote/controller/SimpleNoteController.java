@@ -1,14 +1,14 @@
 package by.shmarlouski.java.simplenote.controller;
 
-import by.shmarlouski.java.simplenote.Utils.SimpleNoteUtils;
+import by.shmarlouski.java.simplenote.utils.SimpleNoteUtils;
 import by.shmarlouski.java.simplenote.model.Role;
 import by.shmarlouski.java.simplenote.model.SimpleNote;
 import by.shmarlouski.java.simplenote.model.User;
 
-import static by.shmarlouski.java.simplenote.Utils.Scan.scanNumber;
-import static by.shmarlouski.java.simplenote.Utils.Scan.scanText;
-import static by.shmarlouski.java.simplenote.Utils.Validation.isEmailValid;
-import static by.shmarlouski.java.simplenote.Utils.Validation.isPhoneNumberValid;
+import static by.shmarlouski.java.simplenote.utils.Scan.scanNumber;
+import static by.shmarlouski.java.simplenote.utils.Scan.scanText;
+import static by.shmarlouski.java.simplenote.utils.Validation.isEmailValid;
+import static by.shmarlouski.java.simplenote.utils.Validation.isPhoneNumberValid;
 import static by.shmarlouski.java.simplenote.view.Printer.print;
 
 public class SimpleNoteController implements SimpleNoteUtils {

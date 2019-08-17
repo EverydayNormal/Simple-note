@@ -1,8 +1,8 @@
 package by.shmarlouski.java.simplenote.controller;
 import java.io.IOException;
 
-import static by.shmarlouski.java.simplenote.Utils.FileWorker.writeIntoTheFile;
-import static by.shmarlouski.java.simplenote.Utils.FileWorker.readFromFile;
+import static by.shmarlouski.java.simplenote.utils.FileWorker.writeIntoTheFile;
+import static by.shmarlouski.java.simplenote.utils.FileWorker.readFromFile;
 
 public class Main {
     public static void main(String[] args) {
