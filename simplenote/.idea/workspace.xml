@@ -22,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/shmarlouski/java/simplenote/controller/SimpleNoteController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="153">
               <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -182,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -198,12 +197,24 @@
             </path>
             <path>
               <item name="simplenote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplenote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplenote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplenote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simplenote" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplenote" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,11 +397,12 @@
       <workItem from="1565985025280" duration="1903000" />
       <workItem from="1566036929767" duration="10825000" />
       <workItem from="1566049921749" duration="82000" />
+      <workItem from="1566050181336" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83684000" />
+    <option name="totallyTimeSpent" value="83695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -403,9 +415,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15147454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15348525" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -467,6 +478,18 @@
             <element signature="method#SimpleNote#0;class#SimpleNote#0" />
             <element signature="method#getInstance#0;class#SimpleNote#0" />
             <element signature="method#equals#0;class#SimpleNote#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/shmarlouski/java/simplenote/controller/SimpleNoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#createUser#0;class#SimpleNoteController#0" />
+            <element signature="method#changeUser#0;class#SimpleNoteController#0" />
           </folding>
         </state>
       </provider>
@@ -544,18 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/shmarlouski/java/simplenote/controller/SimpleNoteController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#createUser#0;class#SimpleNoteController#0" />
-            <element signature="method#changeUser#0;class#SimpleNoteController#0" />
-          </folding>
         </state>
       </provider>
     </entry>
